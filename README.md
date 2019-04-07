@@ -1,0 +1,2 @@
+# Foursquare-API-based-notebook
+Convert addresses into their equivalent latitude and longitude values. Will use the Foursquare API to explore neighborhoods in New York City. Using the explore function we get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. Will use the k-means clustering algorithm to complete this task. Finally, will use the Folium library to visualize the neighborhoods in New York City and their emerging clusters.
